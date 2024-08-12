@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="https://example.org/" rel="self" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="https://example.org/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>2024-08-12 15:18:53 -0400 EDT</lastBuildDate>
+        
+
+        <link>https://example.org/</link>
+
+        
+
+        <title>My New Hugo Site</title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+                    
+                
+
+                
+                
+
+                
+
+                
+
+                
+
+                <guid isPermaLink="false">tag:example.org,2024-08-12:/post/</guid>
+
+                
+                    <link>https://example.org/post/</link>
+                
+
+                
+                    <pubDate>Mon, 12 Aug 2024 15:18:53 EDT</pubDate>
+                
+
+                
+                    <title>Post</title>
+                
+            </item>
+        
+    </channel>
+</rss>
