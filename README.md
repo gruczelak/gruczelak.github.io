@@ -4,14 +4,16 @@ My name is Sydney Gruczelak and I am a recent graduate from Michigan State Unive
 Throughout my time at MSU, I learned a lot on topics like data analysis and visualization, machine learning, database systems, and much more! This website serves as a portfolio to display projects I have completed both academically and on my own time and my accomplishments thus far in my career.
 
 # Projects
-Projects listed here
+**Capstone Project, Tribal Early Childhood Research Center**
 
 # Skills
 - Python
 - SQL
 - C++
 - Git
-- RStudio
+- R studio
+- Microsoft Office Suite
+- Google Suite
 
 # Work Experience
 **Guest Services Associate, European Wax Center**
