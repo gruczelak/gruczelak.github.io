@@ -5,6 +5,7 @@ Throughout my time at MSU, I learned a lot on topics like data analysis and visu
 
 # Projects
 **Capstone Project, Tribal Early Childhood Research Center**
+
 The primary goal of this project was to build an automated report generation system that takes existing data and produces reports for various audiences. The data used was obtained from student testing and it includes key features like the student’s name, age, teacher, and test scores on 4 different subtests. The reports contain basic information on student standings and progression, as well as targeted visualizations to aid in data driven decision-making. 
 
 Working with a team of 5, we successfully automated the system to produce 4 different types of semester reports. This project not only deepened my understanding of data preprocessing  and exploratory data analysis techniques, but also provided valuable insights into early childhood research. The experience reinforced my ability to solve complex problems.
