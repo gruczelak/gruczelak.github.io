@@ -16,6 +16,13 @@ This code is held under a restrictive license and the repository cannot be share
 
 [Final Presentation](https://mediaspace.msu.edu/media/TRIBAL_EARLY_PROGRAM-CMSE495_Final_Video/1_srkg2ip3)
 
+**Celebrity Face Recognition**
+This project’s objective was to take the publicly available Celebrity Face dataset and utilize a pretrained model to classify a series of test images. I worked in a group of 6 to perform data separation and preprocessing, as well as model training and evaluation. We implemented the AlexNet model from the torchvision module and applied cross-entropy loss for fine tuning the weights of the model to ensure optimal accuracy.
+
+Face recognition accuracy is obtained using leave-one-out cross validation (LOOCV). To improve the model’s initial performance of only 5% and ensure the model adjusts the weights slowly, the learning rate was decreased from 0.001 to 0.0001. Our model’s final accuracy achieved approximately 97% accuracy.
+
+View the project on GitHub: [CelebrityFaces](https://github.com/gruczelak/PersonalPortfolio/tree/main/MachineLearning/CelebrityFaces)
+
 # Skills
 - Programming Languages: Python, SQL, C++, R
 - Libraries/Frameworks: Pandas, Scikit-learn, TensorFlow
