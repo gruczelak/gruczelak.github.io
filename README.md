@@ -10,6 +10,12 @@ The primary goal of this project was to build an automated report generation sys
 
 Working with a team of 5, we successfully automated the system to produce 4 different types of semester reports. This project not only deepened my understanding of data preprocessing  and exploratory data analysis techniques, but also provided valuable insights into early childhood research. The experience reinforced my ability to solve complex problems.
 
+This code is held under a restrictive license and the repository cannot be shared. Check out the links below for a demonstration and our final presentation!
+
+[Demo](https://mediaspace.msu.edu/media/TRIBAL_START_PROGRAM_MVP/1_4jr2r0m5)
+
+[Final Presentation](https://mediaspace.msu.edu/media/TRIBAL_EARLY_PROGRAM-CMSE495_Final_Video/1_srkg2ip3)
+
 # Skills
 - Programming Languages: Python, SQL, C++, R
 - Libraries/Frameworks: Pandas, Scikit-learn, TensorFlow
