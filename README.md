@@ -17,11 +17,28 @@ This code is held under a restrictive license and the repository cannot be share
 [Final Presentation](https://mediaspace.msu.edu/media/TRIBAL_EARLY_PROGRAM-CMSE495_Final_Video/1_srkg2ip3)
 
 **Celebrity Face Recognition**
+
 This project’s objective was to take the publicly available Celebrity Face dataset and utilize a pretrained model to classify a series of test images. I worked in a group of 6 to perform data separation and preprocessing, as well as model training and evaluation. We implemented the AlexNet model from the torchvision module and applied cross-entropy loss for fine tuning the weights of the model to ensure optimal accuracy.
 
 Face recognition accuracy is obtained using leave-one-out cross validation (LOOCV). To improve the model’s initial performance of only 5% and ensure the model adjusts the weights slowly, the learning rate was decreased from 0.001 to 0.0001. Our model’s final accuracy achieved approximately 97% accuracy.
 
 View the project on GitHub: [CelebrityFaces](https://github.com/gruczelak/PersonalPortfolio/tree/main/MachineLearning/CelebrityFaces)
+
+**NFL Top Players Prediction**
+
+This project’s goal was to predict the top performers in three key NFL positions: wide receivers (WRs), cornerbacks (CBs), and linebackers (LBs), using a dataset derived from the Player Season Stats API endpoint from SportsDataIO. I worked in a team of 5 members to uncover patterns and trends that can highlight key factors contributing to a player's success on the field. 
+
+With this project consisting of rigorous preprocessing and feature selection, we trained and evaluated two different regression models that work well with non-linear relationships, a Gradient Boosting Regressor and a Random Forest Regressor. The Gradient Boosting Regressor achieved a higher degree of predictive accuracy, with R² values indicating a strong fit to the data – approximately 0.99 for predicting the top wide receivers and cornerbacks, and 0.95 for predicting the top linebackers. This suggests that our model can reliably predict player performance in these roles, offering valuable insights for team strategists and fantasy football participants alike.
+
+View the project on GitHub: [PlayerStatsPrediction](https://github.com/gruczelak/PersonalPortfolio/blob/main/MachineLearning/PlayerStatsPrediction.ipynb)
+
+**Life Expectancy Prediction**
+
+The main objective of this project was to investigate what specific factors contribute to contrasting life expectancies between countries. This project uses a dataset from the world bank with data for 174 out of the 195 countries, including each country’s life expectancy and various socioeconomic standings. We live in a world with vast discrepancies in quality of life and overall life expectancy from country to country. I worked with a group of 4 on this project to investigate the reasoning for these discrepancies. A combination of data cleaning and machine learning techniques were applied to aid in grasping the answers to these questions by building a bigger picture. 
+
+We built both regression models for predicting life expectancy and classification models for predicting a country’s region. We used an SVM regression model and achieved training and testing scores of approximately 98%. We used a K-Nearest Neighbors classifier and were able to reach training and testing scores of about 97%. For both regression and classification models, feature ranking was applied with recursive feature elimination to determine the key factors that influence a country’s life expectancy and other socioeconomic standings. 
+
+View the project on GitHub: [LifeExpectancyPredictions](https://github.com/gruczelak/PersonalPortfolio/blob/main/MachineLearning/LifeExpectancyPredictions.ipynb)
 
 # Skills
 - Programming Languages: Python, SQL, C++, R
