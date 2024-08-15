@@ -30,13 +30,13 @@ View the project on GitHub: [LifeExpectancyPredictions](https://github.com/grucz
 
 # Work Experience
 **Guest Services Associate, European Wax Center** \
-_June 2021 – February 2023_ \
+_June 2021 – February 2023_
 - Responsible for handling incoming and outgoing phone calls, greeting guests, booking and altering reservations, managing the cash register, and tracking product inventory
 - Gained customer service abilities using positive attitudes to resolve customer concerns
 - Accountable for encouraging guests to buy products and wax passes using interpersonal skills to promote store sales
 - Assisted guests in finding which products/payment plans are an appropriate fit using communication skills to ensure returning clientele \
 **Hostess, Los Tres Amigos** \
-_September 2017 – September 2018_ \
+_September 2017 – September 2018_
 - Coordinated restaurant seating using organizational techniques to ensure all guests are seated in a timely manner
 - Met all standards and expectations; welcomed guests, took and prepared carry out orders, and managed cash register for efficient workflow
 # Certifications
